@@ -1,0 +1,10 @@
+Randomization scalar lower bound:
+0.5
+Randomization scalar upper bound:
+1.5
+Uniform or true randomization:
+true
+Files to randomize:
+ClothingTweakerAccessories.json, ClothingTweakerDLC.json, ClothingTweakerFeet.json, ClothingTweakerHands.json, ClothingTweakerHead.json, ClothingTweakerLegs.json, ClothingTweakerTorsoInner.json, ClothingTweakerTorsoOuter.json
+Cap wetwarmth by warmth:
+true

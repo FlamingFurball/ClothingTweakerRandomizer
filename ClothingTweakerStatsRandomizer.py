@@ -1,6 +1,5 @@
 import re
 import random
-import os
 
 global randfloor
 global randceiling

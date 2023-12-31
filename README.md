@@ -20,6 +20,7 @@ Uniform randomization means that all of the stats for a particular clothing item
 
 ### Files to randomize:
 ClothingTweakerAccessories.json, ClothingTweakerDLC.json, ClothingTweakerFeet.json, ClothingTweakerHands.json, ClothingTweakerHead.json, ClothingTweakerLegs.json, ClothingTweakerTorsoInner.json, ClothingTweakerTorsoOuter.json
+
 List the files you want randomized, separated by a comma and a space. The above list contains all files able to be randomized, if you want a particular file not randomized, simply remove it from the list and make sure to clean up any commas or spaces left over. Currently mod clothing is not supported because the mod clothing file is slightly different and I don't play with any mod clothing so I didn't feel like adding compatability for it.
 
 ### Cap wetwarmth by warmth:

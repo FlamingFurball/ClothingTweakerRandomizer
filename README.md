@@ -24,4 +24,4 @@ ClothingTweakerAccessories.json, ClothingTweakerDLC.json, ClothingTweakerFeet.js
 List the files you want randomized, separated by a comma and a space. The above list contains all files able to be randomized, if you want a particular file not randomized, simply remove it from the list and make sure to clean up any commas or spaces left over. Currently mod clothing is not supported because the mod clothing file is slightly different and I don't play with any mod clothing so I didn't feel like adding compatability for it.
 
 ### Cap wetwarmth by warmth:
-Input should be <true> or <false>. If you have true randomization on, there's a possibilty of clothing being warmer while wet than while dry. This is unrealistic, so if this option is set to <true> the code will prevent wetwarmth from exceeding warmth for any particular clothing item. 
+Input should be true or false. If you have true randomization on, there's a possibilty of clothing being warmer while wet than while dry. This is unrealistic, so if this option is set to <true> the code will prevent wetwarmth from exceeding warmth for any particular clothing item. 
